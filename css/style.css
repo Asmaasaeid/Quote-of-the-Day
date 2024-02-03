@@ -1,0 +1,23 @@
+body{
+    background-image:url(../images/abstract-geometric-background-shapes-texture_1194-306788.avif);
+}
+
+h1{
+    font-size: 80px;
+    font-family: fantasy;
+  
+
+}
+.btn{
+    background-color: rgb(230, 56, 181);
+    color: white;
+    width: 250px;
+    border: solid 2px black;
+    font-size: 14px;
+}
+h1,p,button{
+    color: aliceblue;
+}
+.h11{
+    color: rgb(230, 56, 181);
+}
